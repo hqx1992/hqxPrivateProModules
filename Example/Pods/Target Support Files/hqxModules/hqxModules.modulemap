@@ -1,0 +1,6 @@
+framework module hqxModules {
+  umbrella header "hqxModules-umbrella.h"
+
+  export *
+  module * { export * }
+}

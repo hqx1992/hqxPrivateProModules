@@ -1,0 +1,16 @@
+PODS:
+  - hqxModules (0.1.0)
+
+DEPENDENCIES:
+  - hqxModules (from `../`)
+
+EXTERNAL SOURCES:
+  hqxModules:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  hqxModules: 4a734d5fc8d128a3e25043b03422cb9614dab6bc
+
+PODFILE CHECKSUM: 30700e5b0994be87a530c9a383aa57588b3db23c
+
+COCOAPODS: 1.9.1

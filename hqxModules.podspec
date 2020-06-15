@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/918708985@qq.com/hqxModules'
+  s.homepage         = 'https://github.com/918708985@qq.com/hqxPrivateProModules'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '918708985@qq.com' => '918708985@qq.com' }
-  s.source           = { :git => 'https://github.com/918708985@qq.com/hqxModules.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/918708985@qq.com/hqxPrivateProModules.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
